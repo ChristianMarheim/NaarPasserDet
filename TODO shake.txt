@@ -1,7 +1,14 @@
 
 
+Å GJØRE:
+Lage kalender tabell i ny html fil - kopi av http://www.valleyprogramming.com/images/printable-calendar-simple.jpg
 
 
+
+
+
+
+UTFØRT:
 
 Legge til telefonnummer kolonne
 Legge til christian rad i listen
